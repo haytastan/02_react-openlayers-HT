@@ -4,7 +4,7 @@ A minimal [React](https://facebook.github.io/react/)
 wrapper of [OpenLayers 3+](https://openlayers.org/)
 written in [TypeScript](https://www.typescriptlang.org/)
 
-[![image](http://i.imgur.com/5JQcT8G.png)](https://rawgit.com/allenhwkim/react-openlayers/master/app/index.html)
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1486.7204199337166!2d32.7584506505875!3d39.9062746349077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1643810391815!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Install
 
